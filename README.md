@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AshishPanwar-00
-- 👀 I’m interested in frontend web development 
-- 🌱 I’m currently learning mern stack
+- 👋 Hi, I’m AshishPanwar
+- 👀 I’m a full stack mern developer 
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 you can contact me on my email
     ashishsaini9900@gmail.com
